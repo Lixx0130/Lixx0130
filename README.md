@@ -1,4 +1,4 @@
-### Hi there 👋
+### A student major in CS XJTU 😄
 
 <!--
 **Lixx0130/Lixx0130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
