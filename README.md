@@ -1,4 +1,5 @@
-### A junior student major in CS XJTU 😊
+- 😊 A junior student major in CS XJTU 
+- 📫 Reach me via lijinsong0130@gmail.com or lixx0130@qq.com
 
 <!--
 **Lixx0130/Lixx0130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Mango's github stats](https://github-readme-stats.vercel.app/api?username=Lixx0130&show_icons=true&theme=radical)
+-->
+
